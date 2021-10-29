@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PinjamanUTS195410002</string>
+    <string name="prw_pinjaman_rakyat_wibu">PRW(Pinjaman Rakyat Wibu)</string>
+    <string name="jumlah_pinjaman_dalam_rupiah">Jumlah Pinjaman (dalam Rupiah)</string>
+    <string name="jumlah">JUMLAH</string>
+    <string name="tenggat_waktu_pelunasan_dalam_bulan">Tenggat Waktu Pelunasan (dalam Bulan)</string>
+    <string name="jumlah_pinjaman_cair">Jumlah Pinjaman Cair</string>
+    <string name="jumlah_pelunasan">Jumlah Pelunasan</string>
+</resources>
